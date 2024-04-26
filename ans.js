@@ -58,3 +58,4 @@ answers = [
     "halit fahri ozansoy",
     "bilge karasu",
     ] 
+console.log(answers)
