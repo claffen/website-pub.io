@@ -1,7 +1,5 @@
 window.onload = function() { inp.value = "" }
 console.log("Hello, world!")
-console.log(questions)
-console.log(answers)
 
 const get = document.querySelector(".get")
 const p = document.querySelector("p")
