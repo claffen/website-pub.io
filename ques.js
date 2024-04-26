@@ -58,3 +58,4 @@ questions = [
     "aruza veda",
     "troya'da ölüm vardı",
     ]
+console.log(questions)
