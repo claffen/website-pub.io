@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="container">
+		<header>
+	    		<button class="get">Soru getir</button>
+    		</header>
+    		<main>
+    		<input type="text" placeholder="ne biliyosan yaz"
+			onkeypress = "if (event.keyCode == 13)
+			document.querySelector('.sub').click()"    
+			>
+    		</main>
+    		<footer class="footer-1">
+		<p>HAZIR OLDUĞUNDA SORU GETİRE TIKLA</p>
+    		</footer>
+    		<footer class="footer-2">
+    		<button class="sub">Onayla</button>
+    		</footer>
+    		<footer class="footer-3">
+    		<a>Bakalım doğru mu?</a>
+    		</footer>
+    	</div>
+    <script src="app.js"></script>
+	<script src="ans.js"></script>
+	<script src="ques.js"></script>
+</body>
+</html>
