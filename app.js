@@ -33,6 +33,6 @@ get.addEventListener('click', () => {
 				answer = answers[num]
 				a.textContent = "Bakalım doğru mu?"
 				inp.value = ""	
-				}, 500) 
+				}, 1000) 
 		})
 })
