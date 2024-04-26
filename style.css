@@ -46,7 +46,7 @@ p {
 	color: #FFEFEF;
 }
 a {
-	transition-duration:0.1ms;
+	transition-duration:0.7s;
     transition-property: font-size;
     font-size: 18px;
 	font-family: Arial;
