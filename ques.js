@@ -23,7 +23,7 @@ questions = [
     "bela çiçeği, yağmur kaçağı",
     "sönmeyen ateş",
     "halas",
-    "şerare, füruzan, köylü kızların şarkısı)",
+    "şerare, füruzan, köylü kızların şarkısı",
     "tamat, nesr-i harp",
     "hayal içinde",
     "kınar hanımın denizleri, devlet ve tabiat",
