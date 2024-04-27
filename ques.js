@@ -72,7 +72,7 @@ questions = [
     "bozkırda günler, sarı traktör, yarbükü", // 71
     "örümcek ağı, çile, kaldırımlar",
     "fahriye abla, olvido, serenad",
-    "otuz beş yaş, memleket isterim"
+    "otuz beş yaş, memleket isterim",
     "ömrümde sükut, gün eksilmesin penceremden",
     "he, lamelif, om mani padme hum",
     "çocuk ve allah, üç şehitler destanı",
