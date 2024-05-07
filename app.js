@@ -9,7 +9,7 @@ const a = document.querySelector("a")
 const cont = document.querySelector(".container")
 
 get.addEventListener('click', () => {
-	let num = Math.floor(Math.random() * 188)	
+	let num = Math.floor(Math.random() * 211)	
 	p.textContent = questions[num]
 	let answer = answers[num]
 	a.textContent = "Bakalım doğru mu?"
@@ -28,7 +28,7 @@ get.addEventListener('click', () => {
 				setTimeout(() => {
 				a.style.fontSize = "18px"
 				a.style.color = "#000"
-				let num = Math.floor(Math.random() * 188)	
+				let num = Math.floor(Math.random() * 211)	
 				p.textContent = questions[num]
 				answer = answers[num]
 				a.textContent = "Bakalım doğru mu?"
